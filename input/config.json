@@ -1,10 +1,12 @@
 {
-    "mapping": [
-        {
-            "size": [
-                {"heu"}
-            ]
-        }
-    ]
-        
+    "mapping": {
+        "size": {
+            "height": 10,
+            "width": 10
+        },
+        "number_of_pastures": 8
+    },
+    "cells": {
+        "num_points": 3
+    }    
 }
